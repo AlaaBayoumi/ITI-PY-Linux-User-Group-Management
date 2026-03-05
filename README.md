@@ -1,5 +1,5 @@
 # ITI-PY-Linux-User-Group-Management
-# Linux User Manager
+
 
 A simple **Python CLI tool** for managing Linux users and groups using system administration commands.
 
